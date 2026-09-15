@@ -1,2 +1,3 @@
-# online-examination-system
-Online Examination System - Git and GitHub practical
+# Online Examination System
+
+A simple Online Examination System project created to demonstrate Git and GitHub version control concepts.
