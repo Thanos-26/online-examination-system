@@ -1,7 +1,7 @@
 public class LoginTest {
     public static void main(String[] args) {
 
-        if (Login.authenticate("admin", "admin123")) {
+        if (!Login.authenticate("admin", "admin123")) {
             throw new RuntimeException("Test failed: valid login rejected");
         }
 
